@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ShopDataBase.AVLTreeShop">
+    <Position X="3" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="ShopDataBase.AVLTreeShop.Node">
+        <TypeIdentifier>
+          <NewMemberFileName>AVLTreeShop.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAUAAAEAACAACAAAAgAAAAAAEIQAAAAQBAAAAAQAA=</HashCode>
+      <FileName>AVLTreeShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopDataBase.Item&lt;TKey, TValue&gt;">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopDataBase.DictShop">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAACAAAAIAAJAAAAAAAAAACAAAAAAEgQAA=</HashCode>
+      <FileName>DictShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
